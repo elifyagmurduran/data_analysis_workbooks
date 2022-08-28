@@ -1,36 +1,52 @@
 <div align="center">
 
-<h1 align="center">Logistic Regression</h1>
+<h1 align="center">data_analysis_workbooks</h1>
   
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-  <p align="center">
-    A Jupyter Notebook Study on Logistic Regression with Laptop Features Dataset
-    <br />
-    <br />
-    <a href="https://github.com/elifyagmurduran/logistic_regression.ipynb"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/elifyagmurduran/logistic_regression.ipynb">View Demo</a>
-    ·
-    <a href="https://github.com/elifyagmurduran/logistic_regression.ipynb/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/elifyagmurduran/logistic_regression.ipynb/issues">Request Feature</a>
-    <br />
-  </p>
-</div>
+
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-This project is an assignment for the Artificial Intelligence course, and aims to demonstrate a study on general machine learning algorithms. In this assignment a logistic regression is applied to a dataset that contains info about certain laptop features and then guesses based on ratings.
 
-See the [open issues](https://github.com/elifyagmurduran/logistic_regression.ipynb/issues) for a full list of proposed features (and known issues).
 
-<!-- CONTACT -->
+Welcome to the repository. Here, I will be sharing the study notebooks and exercises I've done as data analysis practice.
 
-## Contact
+
+#  Exercises In This Repository
+
+
+- Logistic Regression 
+
+- Covid Data Analysis
+
+- ?
+
+
+## Every Exercise Explained
+
+### _Logistic Regression (Completed)_   
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+Jupyter Notebook was used demonstrate a study on general machine learning algorithms. In this assignment a logistic regression is applied to a dataset that contains info about certain laptop features and then guesses based on ratings.
+
+<br />
+
+### _Covid Data Analysis (In Progress)_ 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+...
+
+<br />
+
+**_More will be added soon._**
+
+<br />
+
+
+See the [open issues](https://github.com/elifyagmurduran/data_analysis_workbooks/issues) for a full list of proposed features (and known issues). If you have any further questions you can contact me with the links below.
+
 
 [![Twitter][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
