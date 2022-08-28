@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.ipnyb linguist-detectable=false
+*.ipynb linguist-detectable=false
 *.r linguist-detectable=true
 *.py linguist-detectable=true
